@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Remakker\\Desktop\\Atividade Prática Modulo 03\\VS Agência-Bootstrap\\VS Agência-Bootstrap.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Remakker\\Desktop\\Atividade Prática Modulo 03\\VS Agência-Bootstrap\\VS Agência-Bootstrap.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Remakker\\Desktop\\Atividade Prática Modulo 03\\VS Agência-Bootstrap\\VS Agência-Bootstrap.csproj",
+        "projectName": "VS Agência-Bootstrap",
+        "projectPath": "C:\\Users\\Remakker\\Desktop\\Atividade Prática Modulo 03\\VS Agência-Bootstrap\\VS Agência-Bootstrap.csproj",
+        "packagesPath": "C:\\Users\\Remakker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Remakker\\Desktop\\Atividade Prática Modulo 03\\VS Agência-Bootstrap\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Remakker\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

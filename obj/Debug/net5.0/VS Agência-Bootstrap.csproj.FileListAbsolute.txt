@@ -1,0 +1,43 @@
+C:\Users\veron\Desktop\VS Agência-Bootstrap\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\veron\Desktop\VS Agência-Bootstrap\bin\Debug\net5.0\appsettings.json
+C:\Users\veron\Desktop\VS Agência-Bootstrap\bin\Debug\net5.0\VS Agência-Bootstrap.exe
+C:\Users\veron\Desktop\VS Agência-Bootstrap\bin\Debug\net5.0\VS Agência-Bootstrap.deps.json
+C:\Users\veron\Desktop\VS Agência-Bootstrap\bin\Debug\net5.0\VS Agência-Bootstrap.runtimeconfig.json
+C:\Users\veron\Desktop\VS Agência-Bootstrap\bin\Debug\net5.0\VS Agência-Bootstrap.runtimeconfig.dev.json
+C:\Users\veron\Desktop\VS Agência-Bootstrap\bin\Debug\net5.0\VS Agência-Bootstrap.dll
+C:\Users\veron\Desktop\VS Agência-Bootstrap\bin\Debug\net5.0\ref\VS Agência-Bootstrap.dll
+C:\Users\veron\Desktop\VS Agência-Bootstrap\bin\Debug\net5.0\VS Agência-Bootstrap.pdb
+C:\Users\veron\Desktop\VS Agência-Bootstrap\bin\Debug\net5.0\VS Agência-Bootstrap.Views.dll
+C:\Users\veron\Desktop\VS Agência-Bootstrap\bin\Debug\net5.0\VS Agência-Bootstrap.Views.pdb
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\VS Agência-Bootstrap.csprojAssemblyReference.cache
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\VS Agência-Bootstrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\VS Agência-Bootstrap.AssemblyInfoInputs.cache
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\VS Agência-Bootstrap.AssemblyInfo.cs
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\VS Agência-Bootstrap.csproj.CoreCompileInputs.cache
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\VS Agência-Bootstrap.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\VS Agência-Bootstrap.RazorAssemblyInfo.cache
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\VS Agência-Bootstrap.RazorAssemblyInfo.cs
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\staticwebassets\VS Agência-Bootstrap.StaticWebAssets.Manifest.cache
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\staticwebassets\VS Agência-Bootstrap.StaticWebAssets.xml
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\scopedcss\bundle\VS Agência-Bootstrap.styles.css
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\VS Agência-Bootstrap.TagHelpers.input.cache
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\VS Agência-Bootstrap.TagHelpers.output.cache
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\VS Agência-Bootstrap.RazorCoreGenerate.cache
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\Razor\Views\Home\Destinos.cshtml.g.cs
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\Razor\Views\Home\Promocoes.cshtml.g.cs
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\VS Agência-Bootstrap.RazorTargetAssemblyInfo.cache
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\VS Agência-Bootstrap.RazorTargetAssemblyInfo.cs
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\VS Agência-Bootstrap.Views.pdb
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\VS Agência-Bootstrap.dll
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\ref\VS Agência-Bootstrap.dll
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\VS Agência-Bootstrap.pdb
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\VS Agência-Bootstrap.genruntimeconfig.cache
+C:\Users\veron\Desktop\VS Agência-Bootstrap\obj\Debug\net5.0\VS Agência-Bootstrap.csproj.CopyComplete
+C:\Users\Remakker\Desktop\Atividade Prática Modulo 03\VS Agência-Bootstrap\obj\Debug\net5.0\VS Agência-Bootstrap.pdb
